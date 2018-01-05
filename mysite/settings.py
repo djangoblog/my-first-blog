@@ -25,7 +25,7 @@ SECRET_KEY = 'h5v+0xrj9y)lq92jy@kit4p_gk@s19gg1ttblcm+#wp-c#l+l2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'supritb12.pythonanywhere.com']
 
 
 # Application definition
