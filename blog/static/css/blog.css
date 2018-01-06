@@ -2,7 +2,8 @@
 .page-header {
     background-color: #007BA7;
     margin-top: 0;
-    padding: 20px 20px 20px 825px; 
+    text-align: center;
+    padding: 20px 20px 20px 0px; 
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
